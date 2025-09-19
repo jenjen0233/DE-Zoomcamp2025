@@ -1,3 +1,3 @@
-# ML-Zoomcamp2025
+# DE-Zoomcamp2025
 
 Hello
